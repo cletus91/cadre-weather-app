@@ -1,7 +1,9 @@
+import DailyForecast from './components/DailyForecast';
+
 function App() {
 	return (
 		<div>
-			<h1>Hello</h1>
+			<DailyForecast />
 		</div>
 	);
 }
